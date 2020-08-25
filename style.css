@@ -1,0 +1,15 @@
+/* GLOBAL START  */
+body{
+    margin: 0;
+    padding: 0;
+    background: url(/images/image.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* GLOBAL END  */
+
+/* NAVBAR START  */
+.logo{
+    width: 100px;
+}
+/* NAVBAR END  */
